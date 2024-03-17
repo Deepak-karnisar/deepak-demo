@@ -2,4 +2,4 @@
 This is my first Git Repository 
 <br>
 
-author - Deepak
+author - Deepak Suthar
